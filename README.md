@@ -1,4 +1,4 @@
-# H1  Minitask Cli
+# Minitask Cli
 -  mkdir(make directory) adalah Command Powershell Membuat Folder dan contoh dibawah Membuat folder baru dengan nama latihan_CLI_Dasar
 ![alt text](gambar1.jpg)
 - Command pindah ke folder baru kita buat tadi yaitu latihan_CLI_Dasar
