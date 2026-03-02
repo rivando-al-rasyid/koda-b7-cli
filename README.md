@@ -15,5 +15,7 @@
 ![alt text](gambar7.png)
 - Command mkdir untuk membuat folder baru dengan nama latihan5.txt
 ![alt text](gambar8.png)
-rmdir untuk menghapus folder latihan4.txt
+- rmdir untuk menghapus folder latihan4.txt
 ![alt text](gambar9.png)
+
+# Sekian Terimakasih 😄 😸 😄
